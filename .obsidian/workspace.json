@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d35695f3fe2984",
+        "id": "a52080853f46d721",
         "type": "tabs",
         "children": [
           {
-            "id": "db009585aa3d104c",
+            "id": "3cac00053e398d7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "新标签页"
             }
           }
         ]
@@ -223,8 +219,9 @@
       "chatting-with-ai:Open Chatting with AI": false
     }
   },
-  "active": "b48c7b86e3c6ca4e",
+  "active": "3cac00053e398d7f",
   "lastOpenFiles": [
+    "欢迎.md",
     "企业/科技/spaceX.md",
     "企业/科技/英伟达.md",
     "企业/科技/特斯拉.md",
@@ -259,7 +256,6 @@
     "企业/军工/AeroVironment.md",
     "企业/军工/亨廷顿英格尔斯工业.md",
     "企业/军工/寇蒂斯莱特.md",
-    "企业/科技/谷歌.md",
-    "欢迎.md"
+    "企业/科技/谷歌.md"
   ]
 }
