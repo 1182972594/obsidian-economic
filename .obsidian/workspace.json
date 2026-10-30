@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0aad980d77102e3f",
+        "id": "e2d35695f3fe2984",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6f735074382042",
+            "id": "db009585aa3d104c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
             }
           }
         ]
