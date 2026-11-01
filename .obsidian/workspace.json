@@ -176,8 +176,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent Chat"
+              "icon": "lucide-ghost",
+              "title": "copilot-agent-chat-view"
             }
           },
           {
