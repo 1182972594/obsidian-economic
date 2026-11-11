@@ -13,15 +13,84 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "企业/科技/谷歌-公司/谷歌/谷歌业务.md",
+                "file": "企业/科技/谷歌-公司/谷歌/谷歌搜索/AI Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "谷歌业务"
+              "title": "AI Mode"
+            }
+          },
+          {
+            "id": "e7bf0d92cc31a656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "企业/科技/谷歌-公司/谷歌/谷歌搜索/AI Mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Mode"
+            }
+          },
+          {
+            "id": "7abbe4d8582dffc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "企业/科技/谷歌-公司/谷歌/谷歌搜索/AI Overviews.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Overviews"
+            }
+          },
+          {
+            "id": "eed3b5933511afb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "企业/科技/spaceX/spaceX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spaceX"
+            }
+          },
+          {
+            "id": "e6c462a0040c68a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "78c4abde04437cac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-11-11 17.43.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-11 17.43.39.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "right": {
     "id": "e4137d5a4958e0c1",
@@ -205,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,43 +292,43 @@
       "chatting-with-ai:Open Chatting with AI": false
     }
   },
-  "active": "234947a681a45ea4",
+  "active": "78c4abde04437cac",
   "lastOpenFiles": [
+    "未命名.md",
+    "Excalidraw/Drawing 2026-11-11 17.43.39.excalidraw.md",
+    "Excalidraw",
+    "企业/科技/spaceX/spaceX.md",
+    "未命名",
+    "市场/相关网站-论坛.md",
+    "市场/股票.md",
+    "市场/政策.md",
+    "市场/居民CPI.md",
+    "市场/降息.md",
+    "市场/加息.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索/AI Mode.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索/AI Overviews.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索/Gemini App.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品-搜索.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索/Gmail.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索/Google Lens.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索/Google Maps.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌搜索/Google 搜索.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品-广告与商业.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品.md",
-    "企业/科技/谷歌-公司/谷歌.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品-金融与经济.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品-基础设施.md",
     "企业/科技/谷歌-公司/谷歌/谷歌业务.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品-生产力工具.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品-设备与平台.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品-Youtuber.md",
+    "企业/科技/谷歌-公司/谷歌.md",
     "企业/科技/谷歌-公司/谷歌",
-    "copilot/copilot-conversations/agent__麻烦你整理添加下谷歌今年前三季度的财报数据@20261031_215240.md",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-bases",
-    "copilot/copilot-conversations/agent__军工企业的相关公司的信息你怎么没有整理出来@20261030_171802.md",
-    "企业/科技/苹果/苹果.md",
-    "企业/科技/英伟达/英伟达.md",
-    "copilot/copilot-conversations/agent__你现在把企业文件夹下的军工企业和科技企业的主营业@20261031_152827.md",
     "企业/科技/spaceX",
     "企业/科技/英伟达",
-    "企业/科技/特斯拉",
-    "企业/科技/苹果",
-    "企业/科技/谷歌-公司",
-    "企业/科技/特斯拉/特斯拉.md",
-    "企业/军工/洛克希德马丁-公司/洛克希德马丁.md",
-    "企业/军工/AeroVironment-公司/AeroVironment.md",
-    "企业/军工/AeroVironment-公司",
-    "企业/军工/通用动力-公司/通用动力.md",
-    "企业/军工/诺斯罗普格鲁曼-公司/诺斯罗普格鲁曼.md",
-    "企业/军工/寇蒂斯莱特-公司/寇蒂斯莱特.md",
-    "企业/军工/克瑞拓斯安全防卫-公司/克瑞拓斯安全防卫.md",
-    "企业/军工/亨廷顿英格尔斯工业-公司/亨廷顿英格尔斯工业.md",
-    "企业/军工/哈里斯通讯-公司/哈里斯通讯.md",
-    "创建链接.md",
-    "市场/相关网站-论坛.md",
-    "欢迎.md",
-    "企业/科技/spaceX/spaceX.md"
+    "企业/科技/特斯拉"
   ]
 }
