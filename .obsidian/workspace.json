@@ -81,12 +81,14 @@
             "id": "78c4abde04437cac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-11-11 17.43.39.excalidraw.md"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-11 17.43.39.excalidraw"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -294,8 +296,8 @@
   },
   "active": "78c4abde04437cac",
   "lastOpenFiles": [
-    "未命名.md",
     "Excalidraw/Drawing 2026-11-11 17.43.39.excalidraw.md",
+    "未命名.md",
     "Excalidraw",
     "企业/科技/spaceX/spaceX.md",
     "未命名",
