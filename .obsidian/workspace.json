@@ -81,14 +81,12 @@
             "id": "78c4abde04437cac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-11-11 17.43.39.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-11 17.43.39.excalidraw"
             }
           }
         ],
@@ -247,8 +245,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -257,8 +255,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-agent-chat-view"
+              "icon": "copilot-agent",
+              "title": "Copilot Agent Chat"
             }
           },
           {
@@ -296,8 +294,10 @@
   },
   "active": "78c4abde04437cac",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-11-11 17.43.39.excalidraw.md",
+    "Pasted image 20261112110432.png",
+    "Pasted image 20261112110327.png",
     "未命名.md",
+    "Excalidraw/Drawing 2026-11-11 17.43.39.excalidraw.md",
     "Excalidraw",
     "企业/科技/spaceX/spaceX.md",
     "未命名",
@@ -324,7 +324,6 @@
     "企业/科技/谷歌-公司/谷歌/谷歌产品-生产力工具.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品-设备与平台.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品-Youtuber.md",
-    "企业/科技/谷歌-公司/谷歌.md",
     "企业/科技/谷歌-公司/谷歌",
     "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references",
