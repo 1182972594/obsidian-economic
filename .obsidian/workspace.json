@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "企业/科技/谷歌-公司/谷歌/谷歌产品图.md"
+                "file": "市场/居民CPI.md"
               },
               "icon": "excalidraw-icon",
-              "title": "谷歌产品图"
+              "title": "居民CPI"
             }
           }
         ]
@@ -221,8 +221,13 @@
       "chatting-with-ai:Open Chatting with AI": false
     }
   },
-  "active": "b48c7b86e3c6ca4e",
+  "active": "016143371a80683e",
   "lastOpenFiles": [
+    "市场/降息.md",
+    "市场/加息.md",
+    "市场/股票.md",
+    "Excalidraw/Drawing 2026-11-12 17.48.15.excalidraw.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品图.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品.md",
     "企业/科技/谷歌-公司/谷歌/谷歌业务.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品-广告与商业.md",
@@ -232,7 +237,6 @@
     "企业/科技/谷歌-公司/谷歌/谷歌产品-搜索.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品-生产力工具.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品-基础设施.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品图.md",
     "市场/居民CPI.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
@@ -257,13 +261,9 @@
     "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-bases",
-    "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/LICENSE",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "copilot/skills/obsidian-markdown/references",
     "Pasted image 20261112110432.png",
     "Pasted image 20261112110327.png"
