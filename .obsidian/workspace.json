@@ -179,16 +179,6 @@
             }
           },
           {
-            "id": "7af4fc93eddabf3c",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-agent-chat-view",
-              "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent Chat"
-            }
-          },
-          {
             "id": "234947a681a45ea4",
             "type": "leaf",
             "state": {
@@ -199,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,7 +211,7 @@
       "chatting-with-ai:Open Chatting with AI": false
     }
   },
-  "active": "016143371a80683e",
+  "active": "234947a681a45ea4",
   "lastOpenFiles": [
     "市场/降息.md",
     "市场/加息.md",
