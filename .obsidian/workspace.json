@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ce39b3e218672bf7",
+        "id": "ff32b88a2a547c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "016143371a80683e",
+            "id": "e15ccde8b9e3fb49",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "市场/居民CPI.md"
+                "file": "企业/科技/美国科技公司关系图.md"
               },
               "icon": "excalidraw-icon",
-              "title": "居民CPI"
+              "title": "美国科技公司关系图"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 200
   },
   "right": {
     "id": "e4137d5a4958e0c1",
@@ -174,8 +174,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -187,13 +187,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d29ee8013625517a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 586.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,56 +216,57 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "copilot:Open Copilot Agent Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "chatting-with-ai:Open Chatting with AI": false
     }
   },
-  "active": "234947a681a45ea4",
+  "active": "e15ccde8b9e3fb49",
   "lastOpenFiles": [
-    "市场/降息.md",
-    "市场/加息.md",
-    "市场/股票.md",
-    "Excalidraw/Drawing 2026-11-12 17.48.15.excalidraw.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品图.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品.md",
+    "企业/科技/spaceX/spaceX.md",
+    "企业/科技/美国科技公司关系图.md",
+    "企业/科技/谷歌-公司/谷歌产品图.md",
+    "企业/科技/谷歌-公司/谷歌.md",
     "企业/科技/谷歌-公司/谷歌/谷歌业务.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品-广告与商业.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品-金融与经济.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品-设备与平台.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品-Youtuber.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品-搜索.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品-生产力工具.md",
-    "企业/科技/谷歌-公司/谷歌/谷歌产品-基础设施.md",
-    "市场/居民CPI.md",
+    "企业/科技/谷歌-公司/谷歌/谷歌产品.md",
+    "市场/基础.md",
+    "市场/政策.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
-    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
-    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded/Shade Master.md",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/LICENSE",
-    "copilot/skills/json-canvas/references",
-    "copilot/skills/json-canvas",
+    "Excalidraw",
+    "市场/相关网站-论坛.md",
+    "市场/基本概念/股票/K线图.md",
+    "Pasted image 20261101135657.png",
+    "Pasted image 20261101135713.png",
+    "Pasted image 20261101135732.png",
+    "Pasted image 20261101135653.png",
+    "市场/基本概念/股票/开盘价及整体走势.md",
+    "未命名.md",
+    "市场/基本概念/股票",
+    "市场/基本概念",
+    "企业/科技/谷歌-公司/谷歌",
+    "copilot/copilot-conversations/agent__麻烦你整理添加下谷歌今年前三季度的财报数据@20261031_215240.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-bases",
-    "copilot/skills/obsidian-markdown/LICENSE",
-    "copilot/skills/obsidian-markdown/references",
-    "Pasted image 20261112110432.png",
-    "Pasted image 20261112110327.png"
+    "copilot/copilot-conversations/agent__军工企业的相关公司的信息你怎么没有整理出来@20261030_171802.md",
+    "企业/科技/苹果/苹果.md",
+    "企业/科技/spaceX"
   ]
 }
