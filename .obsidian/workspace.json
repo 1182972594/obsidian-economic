@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "chatting-with-ai:Open Chatting with AI": false
     }
   },
-  "active": "234947a681a45ea4",
+  "active": "016143371a80683e",
   "lastOpenFiles": [
     "市场/降息.md",
     "市场/加息.md",
