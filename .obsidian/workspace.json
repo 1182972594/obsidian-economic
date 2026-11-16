@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ce39b3e218672bf7",
+        "id": "10b741d71b8772dc",
         "type": "tabs",
         "children": [
           {
-            "id": "016143371a80683e",
+            "id": "2bf1c2ff765aed8b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "市场/居民CPI.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "居民CPI"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -193,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +209,12 @@
       "chatting-with-ai:Open Chatting with AI": false
     }
   },
-  "active": "016143371a80683e",
+  "active": "2bf1c2ff765aed8b",
   "lastOpenFiles": [
+    "市场/居民CPI.md",
+    "市场/基础.md",
+    "企业/科技/谷歌-公司/谷歌产品图.md",
+    "企业/科技/美国科技公司关系图.md",
     "市场/降息.md",
     "市场/加息.md",
     "市场/股票.md",
@@ -227,7 +229,6 @@
     "企业/科技/谷歌-公司/谷歌/谷歌产品-搜索.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品-生产力工具.md",
     "企业/科技/谷歌-公司/谷歌/谷歌产品-基础设施.md",
-    "市场/居民CPI.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
@@ -244,13 +245,10 @@
     "Excalidraw/Scripts",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references",
     "copilot/skills/json-canvas",
-    "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-bases",
     "copilot/skills/obsidian-markdown/LICENSE",
